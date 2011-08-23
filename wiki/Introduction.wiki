@@ -1,6 +1,6 @@
 =Tổng quan về quản lý dự án công nghệ thông tin=
 
-==Quản lý dự án là gì==
+#==Quản lý dự án là gì==
 Dự án là gì ? Là một quá trình gồm các công tác, nhiệm vụ có liên quan với nhau, được thực hiện nhằm đạt được mục tiêu đã đề ra trong điều kiện ràng buộc về thời gian, nguồn lực và ngân sách. 
 
 Mỗi dự án gồm các đặc điểm như sau :
