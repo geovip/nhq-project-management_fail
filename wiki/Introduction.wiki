@@ -1,0 +1,6 @@
+#Tổng quan về quản lý dự án công nghệ thông tin
+
+= Tổng quan=
+
+==Quản lý dự án là gì==
+==Những yếu tố cần có của một người quản lý dự án==
