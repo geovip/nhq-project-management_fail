@@ -1,6 +1,56 @@
 =Tổng quan về quản lý dự án công nghệ thông tin=
 
 ==Quản lý dự án là gì==
+Dự án là gì ? Là một quá trình gồm các công tác, nhiệm vụ có liên quan với nhau, được thực hiện nhằm đạt được mục tiêu đã đề ra trong điều kiện ràng buộc về thời gian, nguồn lực và ngân sách. 
+
+Mỗi dự án gồm các đặc điểm như sau :
+
+a. Mỗi dự án phải có  một hoặc một số mục tiêu rõ ràng. Thông thường người ta cố gắng lượng hoá mục tiêu thành ra các chỉ tiêu cụ thể. Mỗi dự án là một quá trình tạo ra một kết quả cụ thể. Nếu chỉ có kết quả cuối cùng mà kết quả đó không phải là kết quả của một tiến trình thì kết quả đó không được gọi là dự án. 
+
+b. Mỗi dự án đều có một thời hạn nhất định (thường < 3năm), nghĩa là phải có thời điểm bắt đầu và thời điểm kết thúc.      Dự án được xem là một chuỗi các hoạt động nhất thời. Tổ chức của dự án mang tính chất tạm thời, được tạo dựng lên trong một thời hạn nhất định để đạt được mục tiêu đề ra, sau đó tổ chức này sẽ giải tán hay thay đổi cơ cấu tổ chức cho phù hợp với mục tiêu mới.Nghĩa là mỗi dự án đều có một chu kỳ hoạt động. Chu kỳ hoạt động của dự án gồm nhiều giai đoạn khác nhau:
+
++ Khởi đầu dự án
+
++ Triển khai dự án
+
++ Kết thúc dự án  Giai đoạn khởi đầu  (Initiation phase)
+
++ Khái niệm (Conception):
+
++ Định nghĩa dự án là gì ? (Definition)
+
++ Thiết kế (Design)
+
++ Thẩm định (Appraisal)
+
++ Lựa chọn (Selection)
+
++ Bắt đầu triển khai  Triển khai (Implementation phase)
+
++ Hoạch định (Planning)
+
++ Lập tiến độ (Scheduling)
+
++ Tổ chức công việc (Organizing)+ Giám sát (Monitoring)
+
++ Kiểm soát (Controlling) Kết thúc (Termination phase)
+
++ Chuyển giao (Handover)
+
++ Đánh giá (Evaluation) Chu kỳ hoạt động dự án xảy ra theo tiến trình  chậm – nhanh – chậm Nỗ lực thực hiện dự án trong các giai đoạn cũng khác nhau  Có những dự án không tồn tại qua giai đoạn khái niệm và định nghĩa. Có những dự án khi gần kết thúc sẽ chuyển sang dự án mới nên nỗ lực của dự án ở giai đoạn cuối sẽ không bằng không.    
+
+Chi phí của dự án (Cost of project)                                                  
+
+Ở giai đoạn khởi đầu   —>   chi phí thấpỞ giai đoạn triển khai  —>   chi phí tăngCàng về sau thì chi phí càng tăng+ Việc rút ngắn tiến độ làm chi phí tăng lên rất nhiều.+ Theo thời gian tính chất bất định của chi phí sẽ tăng dần lên
+
+c.  Mỗi dự án đều sử dụng nguồn lực và nguồn lực này bị hạn chế. Nguồn lực gồm: nhân lực, nguyên vật liệu, ngân sách. Thế giới của dự án là thế giới của các mâu thuẫn. Bất kỳ một dự án nào cũng tồn tại trong một thế giới đầy mâu thuẫn (The World of Conflicts)                                                             Mâu thuẫn  ở đâu ra?      
+
++ Giữa các bộ phận trong dự án                                                 
+
+ + Giữa các dự án trong tổ chức mẹ                                          
+
++ Giữa dự án và khách hàng d. Mỗi dự án đều mang tính độc đáo (Unique) đối với mục tiêu và việc phương thức thực hiện dự án. Không có sự lặp lại hoàn toàn giữa các dự án. 
+
 ==Lịch sử của quản lý dự án==
 ==Sự khác biệt giữa quản lý một dự án và quản lý một ứng dụng
 ==Lĩnh vực quản lý dự án==
