@@ -1,6 +1,10 @@
 =Tổng quan về quản lý dự án công nghệ thông tin=
 
 ==Quản lý dự án là gì==
+==Lịch sử của quản lý dự án==
+==Sự khác biệt giữa quản lý một dự án và quản lý một ứng dụng
+==Lĩnh vực quản lý dự án==
+==5 lý do thường gặp của một dự án thất bại
 
 = Các sai lầm thường xảy ra =
 
