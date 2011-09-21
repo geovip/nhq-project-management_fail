@@ -69,3 +69,15 @@ Năm 1969, viện Quản lý Dự án (PMI) đã được thành lập để ph�
 =Những yếu tố cần có của một người quản lý dự án=
 
 =Quy trình quản lý dự án=
+
+1. Xác định mục tiêu của dự án
+
+Xác định Công Việc
+Xác định Thời gian hoàn thành
+Thiết lập tài nguyên sẵn có và nhu cầu tài nguyên
+Thiết lập Chi phí cơ bản
+
+2. Thiết lập các đường cơ sở
+Đánh giá các kế hoạch cơ bản
+Tối ưu hóa các kế hoạch cơ bản
+Chốt lại kế hoạch cơ bản
