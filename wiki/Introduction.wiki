@@ -77,7 +77,16 @@ Xác định Thời gian hoàn thành
 Thiết lập tài nguyên sẵn có và nhu cầu tài nguyên
 Thiết lập Chi phí cơ bản
 
-2. Thiết lập các đường cơ sở
+2. Thiết lập các bước hoàn thành
 Đánh giá các kế hoạch cơ bản
 Tối ưu hóa các kế hoạch cơ bản
 Chốt lại kế hoạch cơ bản
+
+3. Giai đoạn theo dõi
+
+kiểm soát thay đổi
+Theo dõi tiến độ làm việc
+Theo dõi Tài nguyên và Chi phí hàng hiện có
+So sánh để cơ bản
+Đánh giá hiệu suất
+Dự báo, phân tích, và Đề nghị hành động sửa chữa
